@@ -226,7 +226,7 @@ label bakery_confrontation:
     scene bakery_outside with fade
     show tobias normal at center
 
-    voice "bakeryconfrontationline1.ogg"
+    voice "bakeryconfrontationnarratorline1.ogg"
     "*As Tobias walks out with his bag full of pastries, Isak steps in front of him, blocking the exit just slightly. His expression is serious.*"
 
     hide tobias
@@ -251,7 +251,7 @@ label bakery_confrontation:
     voice "starttobiasline15.ogg"
     tobias "I don’t see it that way. I’m not hurting anyone."
 
-    voice "starttoniasline16.ogg"
+    voice "starttopiasline16.ogg"
     tobias "What, you think they care about a couple of buns?"
 
     voice "starttobiasline17.ogg"
@@ -541,25 +541,25 @@ label bakery_escape:
     voice "startnarratorline35.ogg"
     "*His voice trembles — not with fear, but something deeper. Regret, maybe.*"
 
-    voice "starttobiasline26.ogg"
+    voice "starttobiasline28.ogg"
     tobias "I didn’t want this. I... I just wanted to feel like I had control."
 
     voice "starttobiasline27.ogg"
     tobias "Like... for once, I could make the rules."
 
-    voice "startnarratorline35.ogg"
+    voice "startnarratorline36.ogg"
     "*He looks down at the bag, now crumpled from the scuffle. The pastries inside feel heavier than ever.*"
 
-    voice "startnarratorline36.ogg"
+    voice "startnarratorline37.ogg"
     "*The manager pulls out his phone and dials security.*"
 
     show isak normal at left
     show viggo normal at right
 
-    voice "startnarratorline37.ogg"
+    voice "startnarratorline38.ogg"
     "*Moments later, two security guards arrive. Calm but firm, they take Tobias by the arms.*"
 
-    voice "startnarratorline38.ogg"
+    voice "startnarratorline39.ogg"
     "*The bakery falls into a hush as the guards escort him toward the exit.*"
 
     voice "startisakline28.ogg"
@@ -568,10 +568,10 @@ label bakery_escape:
     voice "startisakline29.ogg"
     isak "We could’ve helped you before it got to this."
 
-    voice "startnarratorline39.ogg"
+    voice "startnarratorline40.ogg"
     "*Viggo watches silently, guilt flickering in his expression. For once, he has no clever comment.*"
 
-    voice "startnarratorline40.ogg"
+    voice "startnarratorline41.ogg"
     "*Tobias doesn’t resist. He just walks, head low, as the scene fades.*"
 
     return
@@ -581,13 +581,13 @@ label bakery_return:
     scene bakery_day with fade
     show tobias normal at center
 
-    voice "startnarratorline41.ogg"
+    voice "startnarratorline42.ogg"
     "*Tobias slowly walks back to the self-checkout counter, each step heavier than the last.*"
 
-    voice "startnarratorline42.ogg"
+    voice "startnarratorline43.ogg"
     "*He opens his bag and pulls the pastries out one by one, placing them carefully on the counter.*"
 
-    voice "startnarratorline43.ogg"
+    voice "startnarratorline44.ogg"
     "*The beeping of the scanner feels louder than usual, echoing his guilt as he pays for each item in silence.*"
 
     scene bakery_outside with fade
@@ -601,7 +601,7 @@ label bakery_return:
     voice "starttobiasline30.ogg"
     tobias "But I knew. Deep down, I knew."
 
-    voice "startnarratorline44.ogg"
+    voice "startnarratorline45.ogg"
     "*He pauses, staring at the screen as the total flashes.*"
 
     voice "starttobiasline31.ogg"
@@ -622,10 +622,10 @@ label bakery_return:
     voice "startviggoline19.ogg"
     viggo "You did good, Tobias. Really."
 
-    voice "startnarratorline45.ogg"
+    voice "startnarratorline46.ogg"
     "*Tobias looks at them, the tension in his shoulders starting to ease.*"
 
-    voice "startnarratorline46.ogg"
+    voice "startnarratorline47.ogg"
     "*For once, there’s no grin, no cocky remark — just quiet honesty.*"
 
     hide isak
@@ -633,7 +633,7 @@ label bakery_return:
 
     show tobias normal at center
 
-    voice "startnarratorline47.ogg"
+    voice "startnarratorline48.ogg"
     "*He finishes paying, the receipt printing with a soft whirr. Tobias grabs it, staring down at it like it’s more than just numbers.*"
 
     voice "starttobiasline32.ogg"
@@ -645,13 +645,13 @@ label bakery_return:
     voice "starttobiasline34.ogg"
     tobias "But all I was doing was fooling myself."
 
-    voice "startnarratorline48.ogg"
+    voice "startnarratorline49.ogg"
     "*He tucks the receipt away and picks up the paid pastries. There’s no thrill this time — only relief.*"
 
-    voice "startnarratorline49.ogg"
+    voice "startnarratorline50.ogg"
     "*As the three of them step outside together, the fresh air feels different. Cleaner. Lighter.*"
 
-    voice "startnarratorline50.ogg"
+    voice "startnarratorline51.ogg"
     "*Tobias knows this won’t be the last time he’s tempted by the easy way out, but for now, he’s choosing something better.*"
 
     return
